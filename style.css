@@ -59,7 +59,7 @@ footer {
 
 body::before {
   content: "";
-  background: url(images/bg.png) no-repeat;
+  background: url(bg.png) no-repeat;
   background-size: cover;
   display: block;
   position: fixed;
